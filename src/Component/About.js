@@ -15,8 +15,8 @@ const About = () => {
                           <h5 className="text-primary text-uppercase">About Us</h5>
                           <h1 className="display-3 text-uppercase mb-0">Welcome to OnlyFats</h1>
                       </div>
-                      <h4 className="text-body mb-4">Transform the body, transcend the limits. Embrace the burn, earn the results.</h4>
-                      <p className="mb-4">Fitness is not about being better than someone else; it's about being better than you used to be.</p>
+                      <h4 className="text-body mb-4">Transform the body, transcend the limits. Embrace the burn, earn the results.Track your progress, witness your transformation. Every step, every beat, counts.</h4>
+                      <p className="mb-4">Fitness is not about being better than someone else; it's about being better than you used to be. Every heartbeat counts. Let your fitness tracker be the compass on your path to a healthier you. Make yourself proud</p>
                       <div className="rounded bg-dark p-5">
                           <ul className="nav nav-pills justify-content-between mb-3">
                               <li className="nav-item w-50">
