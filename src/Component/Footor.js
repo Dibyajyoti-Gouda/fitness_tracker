@@ -17,7 +17,7 @@ const Footor = () => {
                                   </div>
                                   <div className=" mb-2">
                                       <i className="bi bi-envelope-open text-primary me-2" />
-                                      <p className="mb-0">info@example.com</p>
+                                      <p className="mb-0">t419@example.com</p>
                                   </div>
                                   <div className="mb-2">
                                       <i className="bi bi-telephone text-primary me-2" />
