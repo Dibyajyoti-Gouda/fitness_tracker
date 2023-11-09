@@ -13,7 +13,7 @@ const Footor = () => {
                                   <h4 className="text-uppercase text-light mb-4">Get In Touch</h4>
                                   <div className=" mb-2 ">
                                       <i className="bi bi-geo-alt text-primary me-2" />
-                                      <p className="mb-0">123 Street, New York, USA</p>
+                                      <p className="mb-0">123 Street, BHOPAL, INDIA</p>
                                   </div>
                                   <div className=" mb-2">
                                       <i className="bi bi-envelope-open text-primary me-2" />
@@ -21,7 +21,7 @@ const Footor = () => {
                                   </div>
                                   <div className="mb-2">
                                       <i className="bi bi-telephone text-primary me-2" />
-                                      <p className="mb-0">+012 345 67890</p>
+                                      <p className="mb-0">+91 99345 67890</p>
                                   </div>
                                
                               </div>
