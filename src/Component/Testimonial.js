@@ -18,7 +18,7 @@ const Testimonial = () => {
                       </div>
                       <div className="owl-carousel testimonial-carousel">
                           <div className="testimonial-item">
-                              <p className="fs-4 fw-normal text-light mb-4"><i className="fa fa-quote-left text-primary me-3" />Dolores sed duo clita tempor justo dolor et stet lorem kasd labore dolore lorem ipsum. At lorem lorem magna ut et, nonumy et labore et tempor diam tempor erat dolor rebum sit ipsum.</p>
+                              <p className="fs-4 fw-normal text-light mb-4"><i className="fa fa-quote-left text-primary me-3" />The dashboard, app and website are easy for me to use and I am not tech savvy. I am feeling healthy day by day thanks to this. </p>
                               <div className="d-flex align-items-center">
                                   <img className="img-fluid rounded-circle" src="img/testimonial-1.jpg" alt />
                                   <div className="ps-4">
@@ -28,7 +28,7 @@ const Testimonial = () => {
                               </div>
                           </div>
                           <div className="testimonial-item">
-                              <p className="fs-4 fw-normal text-light mb-4"><i className="fa fa-quote-left text-primary me-3" />Dolores sed duo clita tempor justo dolor et stet lorem kasd labore dolore lorem ipsum. At lorem lorem magna ut et, nonumy et labore et tempor diam tempor erat dolor rebum sit ipsum.</p>
+                              <p className="fs-4 fw-normal text-light mb-4"><i className="fa fa-quote-left text-primary me-3" />The dashboard, app and website are easy for me to use and I am not tech savvy. I am feeling healthy day by day thanks to this. </p>
                               <div className="d-flex align-items-center">
                                   <img className="img-fluid rounded-circle" src="img/testimonial-2.jpg" alt />
                                   <div className="ps-4">
