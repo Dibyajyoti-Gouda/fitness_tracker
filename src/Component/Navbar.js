@@ -19,7 +19,7 @@ const Navbar = () => {
                               </div>
                               <div className="h-100 d-inline-flex align-items-center py-2">
                                   <i className="fa fa-phone-alt text-primary me-2" />
-                                  <h6 className="mb-0">+012 345 6789</h6>
+                                  <h6 className="mb-0">+91 99345 67890</h6>
                               </div>
                           </div>
                           <div className="col-lg-5 px-5 text-end">
