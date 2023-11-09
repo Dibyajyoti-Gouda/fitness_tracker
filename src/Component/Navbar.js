@@ -15,7 +15,7 @@ const Navbar = () => {
                           <div className="col-lg-7 px-5 text-start">
                               <div className="h-100 d-inline-flex align-items-center py-2 me-4">
                                   <i className="fa fa-envelope text-primary me-2" />
-                                  <h6 className="mb-0">info@example.com</h6>
+                                  <h6 className="mb-0">t419@example.com</h6>
                               </div>
                               <div className="h-100 d-inline-flex align-items-center py-2">
                                   <i className="fa fa-phone-alt text-primary me-2" />
