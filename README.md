@@ -10,18 +10,33 @@ Responsive design for seamless experience on different devices
 Real-time data updates with React hooks and context API
 Integration with MongoDB for efficient data management
 # Technologies Used
-Frontend
-React
-React Router
-Axios (for HTTP requests)
-CSS (for styling)
-Backend
-Node.js
-Express.js
-MongoDB
-Mongoose (ODM for MongoDB)
+Frontend:
+
+-React
+
+-React Router
+
+-Axios (for HTTP requests)
+
+-CSS (for styling)
+
+
+Backend:
+
+-Node.js
+
+-Express.js
+
+-MongoDB
+
+-Mongoose (ODM for MongoDB)
+
 # Installation
-Prerequisites
-Node.js
-npm or yarn
-MongoDB
+
+Prerequisites:
+
+-Node.js
+
+-npm or yarn
+
+-MongoDB
